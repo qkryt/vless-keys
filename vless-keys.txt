@@ -1,0 +1,7 @@
+# profile-title: vpn-keys | by qkryt
+# profile-update-interval: 1
+# Date/Time: 2026-09-03 / 21:43 (Moscow)
+# Количество: 2
+
+vless://27c887a7-c373-4576-bbc9-520ac475fc7e@friendlynode.site:443?type=xhttp&security=tls&sni=friendlynode.site&alpn=h2%2Chttp%2F1.1#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B1%5D
+vless://27c887a7-c373-4576-bbc9-520ac475fc7e@friendlynode.ru:443?type=xhttp&security=tls&sni=friendlynode.ru&alpn=h2%2Chttp%2F1.1#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B2%5D
