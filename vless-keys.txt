@@ -1,7 +1,5 @@
 # profile-title: vpn-keys | by qkryt
 # profile-update-interval: 1
-# Date/Time: 2026-09-03 / 23:08 (Moscow)
-# Количество: 11
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&headerType=none#%23%20%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%20%D0%B2%20Telegram
 vless://df9f5aca-eda0-428f-a752-e53866153d12@srv-21bac9.vless.monster:8765?encryption=none&security=reality&type=tcp&headerType=none&sni=srv-21bac9.vless.monster&fp=firefox&pbk=M08l5tDmJUYELykZCNYQyFgtR9Zc-A4ZGlUSLcUeS2c&sid=1bcc9177f3124b25&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%20%D0%B2%20Telegram%20%5B1%5D
